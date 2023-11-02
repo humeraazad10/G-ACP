@@ -20,3 +20,6 @@ Run the script
 ```
 
 input.fasta is the peptide sequence in fasta format
+
+## Example
+./run.sh acp_sequence.fasta
