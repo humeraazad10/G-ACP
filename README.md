@@ -22,4 +22,6 @@ Run the script
 input.fasta is the peptide sequence in fasta format
 
 ## Example
+```bat
 ./run.sh acp_sequence.fasta
+```  
